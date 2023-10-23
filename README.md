@@ -1,9 +1,5 @@
-# Zhen Liu
-
-**Phone:** +44 7731868223  
-**Email:** [zhenny786@gmail.com](mailto:zhenny786@gmail.com)  
-**LinkedIn:** [https://www.linkedin.com/in/zhenliu7/](https://www.linkedin.com/in/zhenliu7/)  
-**Address:** 143 Hawksbill Way, Peterborough PE28NS  
+# Zhen Liu | Graduate Student
+#### Web / Software Developer
 
 ## PROFESSIONAL SUMMARY
 
