@@ -1,5 +1,5 @@
-# Zhen Liu | Graduate Student
-#### Junior Web / Software Developer
+## Junior Web / Software Developer
+#### Graduate Student 
 
 ## PROFESSIONAL SUMMARY
 
