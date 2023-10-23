@@ -1,5 +1,5 @@
 # Zhen Liu | Graduate Student
-#### Web / Software Developer
+#### Junior Web / Software Developer
 
 ## PROFESSIONAL SUMMARY
 
@@ -84,12 +84,12 @@ Scope, Peterborough, UK
 - Assisted in daily operations by processing 100+ items daily, ensuring the store remained organized and visually appealing for customers.
 - Engaged with 100+ customers weekly, understanding their needs and providing tailored recommendations, which boosted customer satisfaction and encouraged repeat visits.
 
-## PORTFOLIO LINKS
+## PORTFOLIO
 
-- [Peterborough Chinese School Website](#)
-- [Personal Flutter Project GitHub](#)
-- [Flutter Project Figma Design Version 1](#)
-- [Flutter Project Figma Design Version 2](#)
-- [MRC Biostatic Unit Report](#)
+- [Peterborough Chinese School Website](#https://www.peterboroughchineseschool.co.uk/)
+- [Personal Flutter Project GitHub](#https://github.com/zhennyboy/Mua)
+- [Flutter Project Figma Design Version 1](#https://www.figma.com/file/WYoogqljHGi6IBJhWhFU3p/Untitled?type=design&node-id=0%3A1&mode=design&t=eAPDJ0WhtgNRx11P-1)
+- [Flutter Project Figma Design Version 2](#https://www.figma.com/file/i8FsZndbES7b0DktSA2jXn/Untitled?type=design&node-id=0%3A1&mode=design&t=parzOdlh8CEtE1Ph-1)
+- [MRC Biostatic Unit Report](#https://docs.google.com/document/d/1QEoYySPReN0R455AOfkIW7wzz3CKmYhx4FPOHD7ktoE/edit?usp=sharing)
 
 References are available upon request.
